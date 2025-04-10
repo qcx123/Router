@@ -1,0 +1,22 @@
+{
+  "name": "Router",
+  "version": "0.1.0",
+  "summary": "A short description of Router.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qcx123/Router",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qcx123": "1411040449@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/qcx123/Router.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Router/Classes/**/*"
+}

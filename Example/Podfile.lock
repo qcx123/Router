@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Router (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Router (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  Router:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Router: 55b7c707cda28bc0196253cd5fda6456ddde8572
+
+PODFILE CHECKSUM: 2ade5773ffbc0b72728dd197f2e82b089e8847f7
+
+COCOAPODS: 1.14.3
